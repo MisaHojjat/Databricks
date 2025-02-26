@@ -3,7 +3,7 @@
 
 ### Bronze Tables:
 
-Data are automated to upload from DBFS in CSV, JSON and Parquet format contain customer, products and orders data.
+Data are automated to be uploaded from DBFS formatted in CSV, JSON and Parquet files contains customer, products and orders data.
 
 ** Backup data are automaed to be saved in Archive directory with current date suffix file's names
 
