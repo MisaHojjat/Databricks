@@ -1,4 +1,4 @@
-#Global Retail Daily Sales Data Flow
+# Global Retail Daily Sales Data Flow
 
 
 Bronze Tables:
